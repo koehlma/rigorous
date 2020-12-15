@@ -1,0 +1,4831 @@
+{
+  "type": "CPython",
+  "executable": "C:\\Program Files\\Python32\\python.exe",
+  "version": "3.2.5",
+  "results": {
+    "original/k-python/programs/testassign1.py": {
+      "identifier": "original/k-python/programs/testassign1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassert1.py": {
+      "identifier": "original/k-python/programs/testassert1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testany.py": {
+      "identifier": "original/k-python/programs/testany.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign3.py": {
+      "identifier": "original/k-python/programs/testassign3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassert2.py": {
+      "identifier": "original/k-python/programs/testassert2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassert3.py": {
+      "identifier": "original/k-python/programs/testassert3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign10.py": {
+      "identifier": "original/k-python/programs/testassign10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign6.py": {
+      "identifier": "original/k-python/programs/testassign6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign2.py": {
+      "identifier": "original/k-python/programs/testassign2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testall.py": {
+      "identifier": "original/k-python/programs/testall.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign8.py": {
+      "identifier": "original/k-python/programs/testassign8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign4.py": {
+      "identifier": "original/k-python/programs/testassign4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign7.py": {
+      "identifier": "original/k-python/programs/testassign7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign5.py": {
+      "identifier": "original/k-python/programs/testassign5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testassign9.py": {
+      "identifier": "original/k-python/programs/testassign9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign1.py": {
+      "identifier": "original/k-python/programs/testaugassign1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign11.py": {
+      "identifier": "original/k-python/programs/testaugassign11.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign5.py": {
+      "identifier": "original/k-python/programs/testaugassign5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign10.py": {
+      "identifier": "original/k-python/programs/testaugassign10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign2.py": {
+      "identifier": "original/k-python/programs/testaugassign2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign4.py": {
+      "identifier": "original/k-python/programs/testaugassign4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools1.py": {
+      "identifier": "original/k-python/programs/testbools1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign6.py": {
+      "identifier": "original/k-python/programs/testaugassign6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools11.py": {
+      "identifier": "original/k-python/programs/testbools11.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign9.py": {
+      "identifier": "original/k-python/programs/testaugassign9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign12.py": {
+      "identifier": "original/k-python/programs/testaugassign12.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign8.py": {
+      "identifier": "original/k-python/programs/testaugassign8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign3.py": {
+      "identifier": "original/k-python/programs/testaugassign3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools2.py": {
+      "identifier": "original/k-python/programs/testbools2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools10.py": {
+      "identifier": "original/k-python/programs/testbools10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testaugassign7.py": {
+      "identifier": "original/k-python/programs/testaugassign7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools5.py": {
+      "identifier": "original/k-python/programs/testbools5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools3.py": {
+      "identifier": "original/k-python/programs/testbools3.py",
+      "stdout": "",
+      "stderr": "C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testbools3.py:2: SyntaxWarning: assertion is always true, perhaps remove parentheses?\r\n  assert (5,)\r\n",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools6.py": {
+      "identifier": "original/k-python/programs/testbools6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testcallable.py": {
+      "identifier": "original/k-python/programs/testcallable.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools4.py": {
+      "identifier": "original/k-python/programs/testbools4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools9.py": {
+      "identifier": "original/k-python/programs/testbools9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbytes2.py": {
+      "identifier": "original/k-python/programs/testbytes2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbytes1.py": {
+      "identifier": "original/k-python/programs/testbytes1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses1.py": {
+      "identifier": "original/k-python/programs/testclasses1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools8.py": {
+      "identifier": "original/k-python/programs/testbools8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses2.py": {
+      "identifier": "original/k-python/programs/testclasses2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbytes4.py": {
+      "identifier": "original/k-python/programs/testbytes4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbytes5.py": {
+      "identifier": "original/k-python/programs/testbytes5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbools7.py": {
+      "identifier": "original/k-python/programs/testbools7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses3.py": {
+      "identifier": "original/k-python/programs/testclasses3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testbytes3.py": {
+      "identifier": "original/k-python/programs/testbytes3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses4.py": {
+      "identifier": "original/k-python/programs/testclasses4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses8.py": {
+      "identifier": "original/k-python/programs/testclasses8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses7.py": {
+      "identifier": "original/k-python/programs/testclasses7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclassmethod.py": {
+      "identifier": "original/k-python/programs/testclassmethod.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testcoercion1.py": {
+      "identifier": "original/k-python/programs/testcoercion1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testcoercion2.py": {
+      "identifier": "original/k-python/programs/testcoercion2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses5.py": {
+      "identifier": "original/k-python/programs/testclasses5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testcompile2.py": {
+      "identifier": "original/k-python/programs/testcompile2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses6.py": {
+      "identifier": "original/k-python/programs/testclasses6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testcompile1.py": {
+      "identifier": "original/k-python/programs/testcompile1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testdecorator.py": {
+      "identifier": "original/k-python/programs/testdecorator.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testclasses9.py": {
+      "identifier": "original/k-python/programs/testclasses9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testcomprehensions.py": {
+      "identifier": "original/k-python/programs/testcomprehensions.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testdicts1.py": {
+      "identifier": "original/k-python/programs/testdicts1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testdel.py": {
+      "identifier": "original/k-python/programs/testdel.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testdocstring.py": {
+      "identifier": "original/k-python/programs/testdocstring.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testeval3.py": {
+      "identifier": "original/k-python/programs/testeval3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testdicts2.py": {
+      "identifier": "original/k-python/programs/testdicts2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testeval1.py": {
+      "identifier": "original/k-python/programs/testeval1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testeval2.py": {
+      "identifier": "original/k-python/programs/testeval2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testeval4.py": {
+      "identifier": "original/k-python/programs/testeval4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testexec2.py": {
+      "identifier": "original/k-python/programs/testexec2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testexec3.py": {
+      "identifier": "original/k-python/programs/testexec3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testexceptions1.py": {
+      "identifier": "original/k-python/programs/testexceptions1.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testexceptions1.py\", line 1, in <module>\r\n    i = ImportError(1, 2, 3, name=4, path=5)\r\nTypeError: ImportError does not take keyword arguments\r\n",
+      "returncode": 1,
+      "exception": "TypeError",
+      "message": " ImportError does not take keyword arguments",
+      "timeout": false
+    },
+    "original/k-python/programs/testeval5.py": {
+      "identifier": "original/k-python/programs/testeval5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testexec4.py": {
+      "identifier": "original/k-python/programs/testexec4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfor1.py": {
+      "identifier": "original/k-python/programs/testfor1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfor3.py": {
+      "identifier": "original/k-python/programs/testfor3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfloat1.py": {
+      "identifier": "original/k-python/programs/testfloat1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testexec1.py": {
+      "identifier": "original/k-python/programs/testexec1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfor2.py": {
+      "identifier": "original/k-python/programs/testfor2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testformat3.py": {
+      "identifier": "original/k-python/programs/testformat3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testformat2.py": {
+      "identifier": "original/k-python/programs/testformat2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testformat5.py": {
+      "identifier": "original/k-python/programs/testformat5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfor4.py": {
+      "identifier": "original/k-python/programs/testfor4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfuncfinally4.py": {
+      "identifier": "original/k-python/programs/testfuncfinally4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testformat1.py": {
+      "identifier": "original/k-python/programs/testformat1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfuncfinally2.py": {
+      "identifier": "original/k-python/programs/testfuncfinally2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfuncfinally3.py": {
+      "identifier": "original/k-python/programs/testfuncfinally3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testformat4.py": {
+      "identifier": "original/k-python/programs/testformat4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfuncfinally1.py": {
+      "identifier": "original/k-python/programs/testfuncfinally1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions11.py": {
+      "identifier": "original/k-python/programs/testfunctions11.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfuncraise2.py": {
+      "identifier": "original/k-python/programs/testfuncraise2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions1.py": {
+      "identifier": "original/k-python/programs/testfunctions1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfuncraise1.py": {
+      "identifier": "original/k-python/programs/testfuncraise1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions10.py": {
+      "identifier": "original/k-python/programs/testfunctions10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions12.py": {
+      "identifier": "original/k-python/programs/testfunctions12.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions13.py": {
+      "identifier": "original/k-python/programs/testfunctions13.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions14.py": {
+      "identifier": "original/k-python/programs/testfunctions14.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions3.py": {
+      "identifier": "original/k-python/programs/testfunctions3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions4.py": {
+      "identifier": "original/k-python/programs/testfunctions4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions2.py": {
+      "identifier": "original/k-python/programs/testfunctions2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testgetattr2.py": {
+      "identifier": "original/k-python/programs/testgetattr2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions8.py": {
+      "identifier": "original/k-python/programs/testfunctions8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions6.py": {
+      "identifier": "original/k-python/programs/testfunctions6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testgetattr3.py": {
+      "identifier": "original/k-python/programs/testgetattr3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions7.py": {
+      "identifier": "original/k-python/programs/testfunctions7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions9.py": {
+      "identifier": "original/k-python/programs/testfunctions9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testfunctions5.py": {
+      "identifier": "original/k-python/programs/testfunctions5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testgetattr5.py": {
+      "identifier": "original/k-python/programs/testgetattr5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testgetattr4.py": {
+      "identifier": "original/k-python/programs/testgetattr4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testgetattr1.py": {
+      "identifier": "original/k-python/programs/testgetattr1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testhash.py": {
+      "identifier": "original/k-python/programs/testhash.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testif.py": {
+      "identifier": "original/k-python/programs/testif.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testimport1.py": {
+      "identifier": "original/k-python/programs/testimport1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testimport4.py": {
+      "identifier": "original/k-python/programs/testimport4.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testimport4.py\", line 2, in <module>\r\n    from . import foo\r\nValueError: Attempted relative import in non-package\r\n",
+      "returncode": 1,
+      "exception": "ValueError",
+      "message": " Attempted relative import in non-package",
+      "timeout": false
+    },
+    "original/k-python/programs/testin.py": {
+      "identifier": "original/k-python/programs/testin.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testimport2.py": {
+      "identifier": "original/k-python/programs/testimport2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testgetattr6.py": {
+      "identifier": "original/k-python/programs/testgetattr6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testimport3.py": {
+      "identifier": "original/k-python/programs/testimport3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers1.py": {
+      "identifier": "original/k-python/programs/testintegers1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers3.py": {
+      "identifier": "original/k-python/programs/testintegers3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers2.py": {
+      "identifier": "original/k-python/programs/testintegers2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers4.py": {
+      "identifier": "original/k-python/programs/testintegers4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers10.py": {
+      "identifier": "original/k-python/programs/testintegers10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers7.py": {
+      "identifier": "original/k-python/programs/testintegers7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers5.py": {
+      "identifier": "original/k-python/programs/testintegers5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers6.py": {
+      "identifier": "original/k-python/programs/testintegers6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testio5.py": {
+      "identifier": "original/k-python/programs/testio5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testio2.py": {
+      "identifier": "original/k-python/programs/testio2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers8.py": {
+      "identifier": "original/k-python/programs/testintegers8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testio3.py": {
+      "identifier": "original/k-python/programs/testio3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testio1.py": {
+      "identifier": "original/k-python/programs/testio1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testintegers9.py": {
+      "identifier": "original/k-python/programs/testintegers9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testio4.py": {
+      "identifier": "original/k-python/programs/testio4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testisinstance1.py": {
+      "identifier": "original/k-python/programs/testisinstance1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testis.py": {
+      "identifier": "original/k-python/programs/testis.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testio8.py": {
+      "identifier": "original/k-python/programs/testio8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testio6.py": {
+      "identifier": "original/k-python/programs/testio6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testissubclass1.py": {
+      "identifier": "original/k-python/programs/testissubclass1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testio7.py": {
+      "identifier": "original/k-python/programs/testio7.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testio7.py\", line 7, in <module>\r\n    i2.close()\r\nIOError: [Errno 9] Bad file descriptor\r\n",
+      "returncode": 1,
+      "exception": "IOError",
+      "message": " [Errno 9] Bad file descriptor",
+      "timeout": false
+    },
+    "original/k-python/programs/testisinstance2.py": {
+      "identifier": "original/k-python/programs/testisinstance2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testissubclass2.py": {
+      "identifier": "original/k-python/programs/testissubclass2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists10.py": {
+      "identifier": "original/k-python/programs/testlists10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testiter1.py": {
+      "identifier": "original/k-python/programs/testiter1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlambda.py": {
+      "identifier": "original/k-python/programs/testlambda.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testiter2.py": {
+      "identifier": "original/k-python/programs/testiter2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists1.py": {
+      "identifier": "original/k-python/programs/testlists1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists2.py": {
+      "identifier": "original/k-python/programs/testlists2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists3.py": {
+      "identifier": "original/k-python/programs/testlists3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists11.py": {
+      "identifier": "original/k-python/programs/testlists11.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlen.py": {
+      "identifier": "original/k-python/programs/testlen.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists4.py": {
+      "identifier": "original/k-python/programs/testlists4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists7.py": {
+      "identifier": "original/k-python/programs/testlists7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists5.py": {
+      "identifier": "original/k-python/programs/testlists5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists8.py": {
+      "identifier": "original/k-python/programs/testlists8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists9.py": {
+      "identifier": "original/k-python/programs/testlists9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testlists6.py": {
+      "identifier": "original/k-python/programs/testlists6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally6.py": {
+      "identifier": "original/k-python/programs/testloopfinally6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally2.py": {
+      "identifier": "original/k-python/programs/testloopfinally2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally4.py": {
+      "identifier": "original/k-python/programs/testloopfinally4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally3.py": {
+      "identifier": "original/k-python/programs/testloopfinally3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally5.py": {
+      "identifier": "original/k-python/programs/testloopfinally5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally7.py": {
+      "identifier": "original/k-python/programs/testloopfinally7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testmap.py": {
+      "identifier": "original/k-python/programs/testmap.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testmockimport2.py": {
+      "identifier": "original/k-python/programs/testmockimport2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally8.py": {
+      "identifier": "original/k-python/programs/testloopfinally8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally1.py": {
+      "identifier": "original/k-python/programs/testloopfinally1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testloopfinally9.py": {
+      "identifier": "original/k-python/programs/testloopfinally9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testmockimport1.py": {
+      "identifier": "original/k-python/programs/testmockimport1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testmockimport3.py": {
+      "identifier": "original/k-python/programs/testmockimport3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testmodule1.py": {
+      "identifier": "original/k-python/programs/testmodule1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testmockimport4.py": {
+      "identifier": "original/k-python/programs/testmockimport4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testmockimport5.py": {
+      "identifier": "original/k-python/programs/testmockimport5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testobject2.py": {
+      "identifier": "original/k-python/programs/testobject2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testobject4.py": {
+      "identifier": "original/k-python/programs/testobject4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testobject3.py": {
+      "identifier": "original/k-python/programs/testobject3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testobject1.py": {
+      "identifier": "original/k-python/programs/testobject1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testord.py": {
+      "identifier": "original/k-python/programs/testord.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testrange.py": {
+      "identifier": "original/k-python/programs/testrange.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testpass.py": {
+      "identifier": "original/k-python/programs/testpass.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testnone.py": {
+      "identifier": "original/k-python/programs/testnone.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testnone.py\", line 9, in <module>\r\n    assert None.__class__() is None\r\nTypeError: cannot create 'NoneType' instances\r\n",
+      "returncode": 1,
+      "exception": "TypeError",
+      "message": " cannot create 'NoneType' instances",
+      "timeout": false
+    },
+    "original/k-python/programs/testposix1.py": {
+      "identifier": "original/k-python/programs/testposix1.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testposix1.py\", line 1, in <module>\r\n    import posix\r\nImportError: No module named posix\r\n",
+      "returncode": 1,
+      "exception": "ImportError",
+      "message": " No module named posix",
+      "timeout": false
+    },
+    "original/k-python/programs/testposix2.py": {
+      "identifier": "original/k-python/programs/testposix2.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testposix2.py\", line 1, in <module>\r\n    import posix\r\nImportError: No module named posix\r\n",
+      "returncode": 1,
+      "exception": "ImportError",
+      "message": " No module named posix",
+      "timeout": false
+    },
+    "original/k-python/programs/testposix3.py": {
+      "identifier": "original/k-python/programs/testposix3.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testposix3.py\", line 1, in <module>\r\n    import posix\r\nImportError: No module named posix\r\n",
+      "returncode": 1,
+      "exception": "ImportError",
+      "message": " No module named posix",
+      "timeout": false
+    },
+    "original/k-python/programs/testrepr1.py": {
+      "identifier": "original/k-python/programs/testrepr1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testreversed2.py": {
+      "identifier": "original/k-python/programs/testreversed2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testrepr2.py": {
+      "identifier": "original/k-python/programs/testrepr2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope11.py": {
+      "identifier": "original/k-python/programs/testscope11.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testreversed1.py": {
+      "identifier": "original/k-python/programs/testreversed1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope12.py": {
+      "identifier": "original/k-python/programs/testscope12.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope3.py": {
+      "identifier": "original/k-python/programs/testscope3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope4.py": {
+      "identifier": "original/k-python/programs/testscope4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope5.py": {
+      "identifier": "original/k-python/programs/testscope5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope1.py": {
+      "identifier": "original/k-python/programs/testscope1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope6.py": {
+      "identifier": "original/k-python/programs/testscope6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope10.py": {
+      "identifier": "original/k-python/programs/testscope10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope2.py": {
+      "identifier": "original/k-python/programs/testscope2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope7.py": {
+      "identifier": "original/k-python/programs/testscope7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope8.py": {
+      "identifier": "original/k-python/programs/testscope8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testscope9.py": {
+      "identifier": "original/k-python/programs/testscope9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsetattr2.py": {
+      "identifier": "original/k-python/programs/testsetattr2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsetattr3.py": {
+      "identifier": "original/k-python/programs/testsetattr3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsetattr1.py": {
+      "identifier": "original/k-python/programs/testsetattr1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsetattr5.py": {
+      "identifier": "original/k-python/programs/testsetattr5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsetattr6.py": {
+      "identifier": "original/k-python/programs/testsetattr6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsetattr4.py": {
+      "identifier": "original/k-python/programs/testsetattr4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings1.py": {
+      "identifier": "original/k-python/programs/teststrings1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings11.py": {
+      "identifier": "original/k-python/programs/teststrings11.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststaticmethod.py": {
+      "identifier": "original/k-python/programs/teststaticmethod.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings10.py": {
+      "identifier": "original/k-python/programs/teststrings10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsets.py": {
+      "identifier": "original/k-python/programs/testsets.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings2.py": {
+      "identifier": "original/k-python/programs/teststrings2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testslice.py": {
+      "identifier": "original/k-python/programs/testslice.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings4.py": {
+      "identifier": "original/k-python/programs/teststrings4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings3.py": {
+      "identifier": "original/k-python/programs/teststrings3.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\teststrings3.py\", line 4, in <module>\r\n    assert hash(\"hello world\") == 4477797451044935522, hash(\"hello world\")\r\nAssertionError: -2324238377118044897\r\n",
+      "returncode": 1,
+      "exception": "AssertionError",
+      "message": " -2324238377118044897",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings7.py": {
+      "identifier": "original/k-python/programs/teststrings7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings5.py": {
+      "identifier": "original/k-python/programs/teststrings5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings9.py": {
+      "identifier": "original/k-python/programs/teststrings9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings6.py": {
+      "identifier": "original/k-python/programs/teststrings6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsuper1.py": {
+      "identifier": "original/k-python/programs/testsuper1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/teststrings8.py": {
+      "identifier": "original/k-python/programs/teststrings8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsuper3.py": {
+      "identifier": "original/k-python/programs/testsuper3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsuper2.py": {
+      "identifier": "original/k-python/programs/testsuper2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsuper5.py": {
+      "identifier": "original/k-python/programs/testsuper5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry10.py": {
+      "identifier": "original/k-python/programs/testtry10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testsys.py": {
+      "identifier": "original/k-python/programs/testsys.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testsys.py\", line 3, in <module>\r\n    assert sys.path[0][-9:] == \"/programs\", sys.path[0][-9:]\r\nAssertionError: \\programs\r\n",
+      "returncode": 1,
+      "exception": "AssertionError",
+      "message": " \\programs",
+      "timeout": false
+    },
+    "original/k-python/programs/testsuper4.py": {
+      "identifier": "original/k-python/programs/testsuper4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry13.py": {
+      "identifier": "original/k-python/programs/testtry13.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testtry13.py\", line 9, in <module>\r\n    raise SyntaxError from None\r\nTypeError: exception causes must derive from BaseException\r\n",
+      "returncode": 1,
+      "exception": "TypeError",
+      "message": " exception causes must derive from BaseException",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry12.py": {
+      "identifier": "original/k-python/programs/testtry12.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry11.py": {
+      "identifier": "original/k-python/programs/testtry11.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testtry11.py\", line 3, in <module>\r\n    raise\r\nRuntimeError: No active exception to reraise\r\n\r\nDuring handling of the above exception, another exception occurred:\r\n\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testtry11.py\", line 6, in <module>\r\n    raise SyntaxError\r\nSyntaxError: None\r\n\r\nDuring handling of the above exception, another exception occurred:\r\n\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testtry11.py\", line 11, in <module>\r\n    assert not e.__suppress_context__\r\nAttributeError: 'SyntaxError' object has no attribute '__suppress_context__'\r\n",
+      "returncode": 1,
+      "exception": "AttributeError",
+      "message": " 'SyntaxError' object has no attribute '__suppress_context__'",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry14.py": {
+      "identifier": "original/k-python/programs/testtry14.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry2.py": {
+      "identifier": "original/k-python/programs/testtry2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry1.py": {
+      "identifier": "original/k-python/programs/testtry1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry3.py": {
+      "identifier": "original/k-python/programs/testtry3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry15.py": {
+      "identifier": "original/k-python/programs/testtry15.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry4.py": {
+      "identifier": "original/k-python/programs/testtry4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry7.py": {
+      "identifier": "original/k-python/programs/testtry7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry6.py": {
+      "identifier": "original/k-python/programs/testtry6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry5.py": {
+      "identifier": "original/k-python/programs/testtry5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry9.py": {
+      "identifier": "original/k-python/programs/testtry9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples11.py": {
+      "identifier": "original/k-python/programs/testtuples11.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtry8.py": {
+      "identifier": "original/k-python/programs/testtry8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples1.py": {
+      "identifier": "original/k-python/programs/testtuples1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples12.py": {
+      "identifier": "original/k-python/programs/testtuples12.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples2.py": {
+      "identifier": "original/k-python/programs/testtuples2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples10.py": {
+      "identifier": "original/k-python/programs/testtuples10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples3.py": {
+      "identifier": "original/k-python/programs/testtuples3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples6.py": {
+      "identifier": "original/k-python/programs/testtuples6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples4.py": {
+      "identifier": "original/k-python/programs/testtuples4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples9.py": {
+      "identifier": "original/k-python/programs/testtuples9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples7.py": {
+      "identifier": "original/k-python/programs/testtuples7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples5.py": {
+      "identifier": "original/k-python/programs/testtuples5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testwhile3.py": {
+      "identifier": "original/k-python/programs/testwhile3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testweakref.py": {
+      "identifier": "original/k-python/programs/testweakref.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testwhile2.py": {
+      "identifier": "original/k-python/programs/testwhile2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testwhile4.py": {
+      "identifier": "original/k-python/programs/testwhile4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testtuples8.py": {
+      "identifier": "original/k-python/programs/testtuples8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testwith1.py": {
+      "identifier": "original/k-python/programs/testwith1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testwhile1.py": {
+      "identifier": "original/k-python/programs/testwhile1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testwith2.py": {
+      "identifier": "original/k-python/programs/testwith2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testwith3.py": {
+      "identifier": "original/k-python/programs/testwith3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testwith4.py": {
+      "identifier": "original/k-python/programs/testwith4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield1.py": {
+      "identifier": "original/k-python/programs/testyield1.py",
+      "stdout": "",
+      "stderr": "  File \"C:\\Users\\koehl\\Projects\\Studium\\Informatik\\Masterthesis\\python-semantics-thesis\\rigorous\\tests\\python\\programs\\original\\k-python\\programs\\testyield1.py\", line 4\r\n    return 7\r\nSyntaxError: 'return' with argument inside generator\r\n",
+      "returncode": 1,
+      "exception": "SyntaxError",
+      "message": " 'return' with argument inside generator",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield12.py": {
+      "identifier": "original/k-python/programs/testyield12.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield14.py": {
+      "identifier": "original/k-python/programs/testyield14.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield3.py": {
+      "identifier": "original/k-python/programs/testyield3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield11.py": {
+      "identifier": "original/k-python/programs/testyield11.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield10.py": {
+      "identifier": "original/k-python/programs/testyield10.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield13.py": {
+      "identifier": "original/k-python/programs/testyield13.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield7.py": {
+      "identifier": "original/k-python/programs/testyield7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield2.py": {
+      "identifier": "original/k-python/programs/testyield2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield6.py": {
+      "identifier": "original/k-python/programs/testyield6.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield4.py": {
+      "identifier": "original/k-python/programs/testyield4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield5.py": {
+      "identifier": "original/k-python/programs/testyield5.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield9.py": {
+      "identifier": "original/k-python/programs/testyield9.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/k-python/programs/testyield8.py": {
+      "identifier": "original/k-python/programs/testyield8.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/bugs/memofib-decorator.py": {
+      "identifier": "original/lambda-py/bugs/memofib-decorator.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/bugs/methodinstance.py": {
+      "identifier": "original/lambda-py/bugs/methodinstance.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/generators/send-gen.py": {
+      "identifier": "original/lambda-py/generators/send-gen.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/generators/gen-method.py": {
+      "identifier": "original/lambda-py/generators/gen-method.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/generators/gen-comp.py": {
+      "identifier": "original/lambda-py/generators/gen-comp.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/bugs/setitem.py": {
+      "identifier": "original/lambda-py/bugs/setitem.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/generators/gen-except.py": {
+      "identifier": "original/lambda-py/generators/gen-except.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/support_exception.py": {
+      "identifier": "original/lambda-py/modules/support_exception.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\AppData\\Local\\Temp\\test_cpython_kdbf0qcf\\support_exception.py\", line 52, in <module>\r\n    raise TypeError\r\nTypeError\r\n",
+      "returncode": 1,
+      "exception": "TypeError",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/test_as/empty.py": {
+      "identifier": "original/lambda-py/modules/test_as/empty.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/test_meta_path.py": {
+      "identifier": "original/lambda-py/modules/test_meta_path.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/test_import_name_binding.py": {
+      "identifier": "original/lambda-py/modules/test_import_name_binding.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/test_as/__init__.py": {
+      "identifier": "original/lambda-py/modules/test_as/__init__.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/test_exception.py": {
+      "identifier": "original/lambda-py/modules/test_exception.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/test_with_extension.py": {
+      "identifier": "original/lambda-py/modules/test_with_extension.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\AppData\\Local\\Temp\\test_cpython_txz78xa_\\test_with_extension.py\", line 53, in <module>\r\n    import support\r\nImportError: No module named support\r\n",
+      "returncode": 1,
+      "exception": "ImportError",
+      "message": " No module named support",
+      "timeout": false
+    },
+    "original/lambda-py/modules/test_unary.py": {
+      "identifier": "original/lambda-py/modules/test_unary.py",
+      "stdout": "",
+      "stderr": "......\r\n----------------------------------------------------------------------\r\nRan 6 tests in 0.001s\r\n\r\nOK\r\n",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_file.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_file.py",
+      "stdout": "",
+      "stderr": "...\r\n----------------------------------------------------------------------\r\nRan 3 tests in 0.000s\r\n\r\nOK\r\n",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_binop.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_binop.py",
+      "stdout": "test_add (__main__.RatTestCase) ... ok\r\ntest_constructor (__main__.RatTestCase) ... ok\r\ntest_div (__main__.RatTestCase) ... ok\r\ntest_eq (__main__.RatTestCase) ... ok\r\ntest_floordiv (__main__.RatTestCase) ... ok\r\ntest_gcd (__main__.RatTestCase) ... ok\r\ntest_mul (__main__.RatTestCase) ... ok\r\ntest_sub (__main__.RatTestCase) ... ok\r\ntest_true_div (__main__.RatTestCase) ... ok\r\ntest_comparison_orders (__main__.OperationOrderTests) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 10 tests in 0.002s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_int.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_int.py",
+      "stdout": "test_basic (__main__.IntTestCases) ... ok\r\ntest_error_message (__main__.IntTestCases) ... ok\r\ntest_intconversion (__main__.IntTestCases) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 3 tests in 0.002s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_bool.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_bool.py",
+      "stdout": "test_boolean (__main__.BoolTest) ... ok\r\ntest_callable (__main__.BoolTest) ... ok\r\ntest_contains (__main__.BoolTest) ... ok\r\ntest_convert (__main__.BoolTest) ... ok\r\ntest_convert_to_bool (__main__.BoolTest) ... ok\r\ntest_fileclosed (__main__.BoolTest) ... ok\r\ntest_float (__main__.BoolTest) ... ok\r\ntest_format (__main__.BoolTest) ... ok\r\ntest_hasattr (__main__.BoolTest) ... ok\r\ntest_int (__main__.BoolTest) ... ok\r\ntest_isinstance (__main__.BoolTest) ... ok\r\ntest_issubclass (__main__.BoolTest) ... ok\r\ntest_marshal (__main__.BoolTest) ... ok\r\ntest_math (__main__.BoolTest) ... ok\r\ntest_operator (__main__.BoolTest) ... ok\r\ntest_pickle (__main__.BoolTest) ... ok\r\ntest_picklevalues (__main__.BoolTest) ... ok\r\ntest_print (__main__.BoolTest) ... ok\r\ntest_repr (__main__.BoolTest) ... ok\r\ntest_sane_len (__main__.BoolTest) ... ok\r\ntest_str (__main__.BoolTest) ... ok\r\ntest_string (__main__.BoolTest) ... ok\r\ntest_subclass (__main__.BoolTest) ... ok\r\ntest_types (__main__.BoolTest) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 24 tests in 0.005s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_augassign.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_augassign.py",
+      "stdout": "testBasic (__main__.AugAssignTest) ... ok\r\ntestCustomMethods1 (__main__.AugAssignTest) ... ok\r\ntestCustomMethods2 (__main__.AugAssignTest) ... ok\r\ntestInDict (__main__.AugAssignTest) ... ok\r\ntestInList (__main__.AugAssignTest) ... ok\r\ntestSequences (__main__.AugAssignTest) ... ok\r\ntest_with_unpacking (__main__.AugAssignTest) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 7 tests in 0.002s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_dictviews.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_dictviews.py",
+      "stdout": "test_constructors_not_callable (__main__.DictSetTest) ... ok\r\ntest_dict_items (__main__.DictSetTest) ... ok\r\ntest_dict_keys (__main__.DictSetTest) ... ok\r\ntest_dict_mixed_keys_items (__main__.DictSetTest) ... ok\r\ntest_dict_repr (__main__.DictSetTest) ... ok\r\ntest_dict_values (__main__.DictSetTest) ... ok\r\ntest_items_set_operations (__main__.DictSetTest) ... ok\r\ntest_keys_set_operations (__main__.DictSetTest) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 8 tests in 0.001s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_types.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_types.py",
+      "stdout": "test_boolean_ops (__main__.TypesTests) ... ok\r\ntest_comparisons (__main__.TypesTests) ... ok\r\ntest_float__format__ (__main__.TypesTests) ... ok\r\ntest_float__format__locale (__main__.TypesTests) ... ok\r\ntest_float_constructor (__main__.TypesTests) ... ok\r\ntest_float_to_string (__main__.TypesTests) ... ok\r\ntest_floats (__main__.TypesTests) ... ok\r\ntest_format_spec_errors (__main__.TypesTests) ... ok\r\ntest_int__format__ (__main__.TypesTests) ... ok\r\ntest_int__format__locale (__main__.TypesTests) ... ok\r\ntest_internal_sizes (__main__.TypesTests) ... ok\r\ntest_normal_integers (__main__.TypesTests) ... ok\r\ntest_numeric_types (__main__.TypesTests) ... ok\r\ntest_strings (__main__.TypesTests) ... ok\r\ntest_truth_values (__main__.TypesTests) ... ok\r\ntest_type_function (__main__.TypesTests) ... ok\r\ntest_zero_division (__main__.TypesTests) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 17 tests in 0.053s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_string.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_string.py",
+      "stdout": "test_attrs (__main__.ModuleTest) ... ok\r\ntest_capwords (__main__.ModuleTest) ... ok\r\ntest_convert_field (__main__.ModuleTest) ... ok\r\ntest_formatter (__main__.ModuleTest) ... ok\r\ntest_get_field (__main__.ModuleTest) ... ok\r\ntest_vformat_assert (__main__.ModuleTest) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 6 tests in 0.001s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_isinstance.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_isinstance.py",
+      "stdout": "test_bases_raises_other_than_attribute_error (__main__.TestIsInstanceExceptions) ... ok\r\ntest_class_has_no_bases (__main__.TestIsInstanceExceptions) ... ok\r\ntest_dont_mask_non_attribute_error (__main__.TestIsInstanceExceptions) ... ok\r\ntest_isinstance_dont_mask_non_attribute_error (__main__.TestIsInstanceExceptions) ... ok\r\ntest_mask_attribute_error (__main__.TestIsInstanceExceptions) ... ok\r\ntest_dont_mask_non_attribute_error (__main__.TestIsSubclassExceptions) ... ok\r\ntest_dont_mask_non_attribute_error_in_cls_arg (__main__.TestIsSubclassExceptions) ... ok\r\ntest_mask_attribute_error (__main__.TestIsSubclassExceptions) ... ok\r\ntest_mask_attribute_error_in_cls_arg (__main__.TestIsSubclassExceptions) ... ok\r\ntest_isinstance_abstract (__main__.TestIsInstanceIsSubclass) ... ok\r\ntest_isinstance_normal (__main__.TestIsInstanceIsSubclass) ... ok\r\ntest_isinstance_recursion_limit (__main__.TestIsInstanceIsSubclass) ... ok\r\ntest_subclass_abstract (__main__.TestIsInstanceIsSubclass) ... ok\r\ntest_subclass_normal (__main__.TestIsInstanceIsSubclass) ... ok\r\ntest_subclass_recursion_limit (__main__.TestIsInstanceIsSubclass) ... ok\r\ntest_subclass_tuple (__main__.TestIsInstanceIsSubclass) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 16 tests in 0.009s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_unary.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_unary.py",
+      "stdout": "test_bad_types (__main__.UnaryOpTestCase) ... ok\r\ntest_invert (__main__.UnaryOpTestCase) ... ok\r\ntest_negation_of_exponentiation (__main__.UnaryOpTestCase) ... ok\r\ntest_negative (__main__.UnaryOpTestCase) ... ok\r\ntest_no_overflow (__main__.UnaryOpTestCase) ... ok\r\ntest_positive (__main__.UnaryOpTestCase) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 6 tests in 0.000s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/multiple_inheritance/super-external-self.py": {
+      "identifier": "original/lambda-py/multiple_inheritance/super-external-self.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_raise.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_raise.py",
+      "stdout": "",
+      "stderr": "..............................\r\n----------------------------------------------------------------------\r\nRan 30 tests in 0.001s\r\n\r\nOK\r\n",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_scope.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_scope.py",
+      "stdout": "testBoundAndFree (__main__.ScopeTests) ... ok\r\ntestCellIsKwonlyArg (__main__.ScopeTests) ... ok\r\ntestClassAndGlobal (__main__.ScopeTests) ... ok\r\ntestComplexDefinitions (__main__.ScopeTests) ... ok\r\ntestEvalExecFreeVars (__main__.ScopeTests) ... ok\r\ntestEvalFreeVars (__main__.ScopeTests) ... ok\r\ntestExtraNesting (__main__.ScopeTests) ... ok\r\ntestFreeVarInMethod (__main__.ScopeTests) ... ok\r\ntestFreeingCell (__main__.ScopeTests) ... ok\r\ntestGlobalInParallelNestedFunctions (__main__.ScopeTests) ... ok\r\ntestInteractionWithTraceFunc (__main__.ScopeTests) ... ok\r\ntestLambdas (__main__.ScopeTests) ... ok\r\ntestLeaks (__main__.ScopeTests) ... ok\r\ntestListCompLocalVars (__main__.ScopeTests) ... ok\r\ntestLocalsClass (__main__.ScopeTests) ... ok\r\ntestLocalsClass_WithTrace (__main__.ScopeTests) ... ok\r\ntestLocalsFunction (__main__.ScopeTests) ... ok\r\ntestMixedFreevarsAndCellvars (__main__.ScopeTests) ... ok\r\ntestNearestEnclosingScope (__main__.ScopeTests) ... ok\r\ntestNestedNonLocal (__main__.ScopeTests) ... ok\r\ntestNestingGlobalNoFree (__main__.ScopeTests) ... ok\r\ntestNestingPlusFreeRefToGlobal (__main__.ScopeTests) ... ok\r\ntestNestingThroughClass (__main__.ScopeTests) ... ok\r\ntestNonLocalClass (__main__.ScopeTests) ... ok\r\ntestNonLocalFunction (__main__.ScopeTests) ... ok\r\ntestNonLocalGenerator (__main__.ScopeTests) ... ok\r\ntestNonLocalMethod (__main__.ScopeTests) ... ok\r\ntestRecursion (__main__.ScopeTests) ... ok\r\ntestScopeOfGlobalStmt (__main__.ScopeTests) ... ok\r\ntestSimpleAndRebinding (__main__.ScopeTests) ... ok\r\ntestSimpleNesting (__main__.ScopeTests) ... ok\r\ntestTopIsNotSignificant (__main__.ScopeTests) ... ok\r\ntestUnboundLocal (__main__.ScopeTests) ... ok\r\ntestUnboundLocal_AfterDel (__main__.ScopeTests) ... ok\r\ntestUnboundLocal_AugAssign (__main__.ScopeTests) ... ok\r\ntestUnoptimizedNamespaces (__main__.ScopeTests) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 36 tests in 0.005s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_dict.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_dict.py",
+      "stdout": "test_bad_key (__main__.DictTest) ... ok\r\ntest_bool (__main__.DictTest) ... ok\r\ntest_clear (__main__.DictTest) ... ok\r\ntest_constructor (__main__.DictTest) ... ok\r\ntest_container_iterator (__main__.DictTest) ... ok\r\ntest_contains (__main__.DictTest) ... ok\r\ntest_copy (__main__.DictTest) ... ok\r\ntest_dictview_mixed_set_operations (__main__.DictTest) ... ok\r\ntest_dictview_set_operations_on_items (__main__.DictTest) ... ok\r\ntest_dictview_set_operations_on_keys (__main__.DictTest) ... ok\r\ntest_empty_presized_dict_in_freelist (__main__.DictTest) ... ok\r\ntest_eq (__main__.DictTest) ... ok\r\ntest_errors_in_view_containment_check (__main__.DictTest) ... ok\r\ntest_fromkeys (__main__.DictTest) ... ok\r\ntest_get (__main__.DictTest) ... ok\r\ntest_getitem (__main__.DictTest) ... ok\r\ntest_invalid_keyword_arguments (__main__.DictTest) ... ok\r\ntest_items (__main__.DictTest) ... ok\r\ntest_keys (__main__.DictTest) ... ok\r\ntest_keys_contained (__main__.DictTest) ... ok\r\ntest_len (__main__.DictTest) ... ok\r\ntest_literal_constructor (__main__.DictTest) ... ok\r\ntest_missing (__main__.DictTest) ... ok\r\ntest_mutatingiteration (__main__.DictTest) ... ok\r\ntest_pop (__main__.DictTest) ... ok\r\ntest_popitem (__main__.DictTest) ... ok\r\ntest_repr (__main__.DictTest) ... ok\r\ntest_resize1 (__main__.DictTest) ... ok\r\ntest_resize2 (__main__.DictTest) ... ok\r\ntest_setdefault (__main__.DictTest) ... ok\r\ntest_track_dynamic (__main__.DictTest) ... ok\r\ntest_track_literals (__main__.DictTest) ... ok\r\ntest_track_subtypes (__main__.DictTest) ... ok\r\ntest_tuple_keyerror (__main__.DictTest) ... ok\r\ntest_update (__main__.DictTest) ... ok\r\ntest_values (__main__.DictTest) ... ok\r\ntest_bool (__main__.GeneralMappingTests) ... ok\r\ntest_constructor (__main__.GeneralMappingTests) ... ok\r\ntest_get (__main__.GeneralMappingTests) ... ok\r\ntest_getitem (__main__.GeneralMappingTests) ... ok\r\ntest_items (__main__.GeneralMappingTests) ... ok\r\ntest_keys (__main__.GeneralMappingTests) ... ok\r\ntest_len (__main__.GeneralMappingTests) ... ok\r\ntest_pop (__main__.GeneralMappingTests) ... ok\r\ntest_popitem (__main__.GeneralMappingTests) ... ok\r\ntest_read (__main__.GeneralMappingTests) ... ok\r\ntest_setdefault (__main__.GeneralMappingTests) ... ok\r\ntest_update (__main__.GeneralMappingTests) ... ok\r\ntest_values (__main__.GeneralMappingTests) ... ok\r\ntest_write (__main__.GeneralMappingTests) ... ok\r\ntest_bool (__main__.SubclassMappingTests) ... ok\r\ntest_constructor (__main__.SubclassMappingTests) ... ok\r\ntest_get (__main__.SubclassMappingTests) ... ok\r\ntest_getitem (__main__.SubclassMappingTests) ... ok\r\ntest_items (__main__.SubclassMappingTests) ... ok\r\ntest_keys (__main__.SubclassMappingTests) ... ok\r\ntest_len (__main__.SubclassMappingTests) ... ok\r\ntest_pop (__main__.SubclassMappingTests) ... ok\r\ntest_popitem (__main__.SubclassMappingTests) ... ok\r\ntest_read (__main__.SubclassMappingTests) ... ok\r\ntest_setdefault (__main__.SubclassMappingTests) ... ok\r\ntest_update (__main__.SubclassMappingTests) ... ok\r\ntest_values (__main__.SubclassMappingTests) ... ok\r\ntest_write (__main__.SubclassMappingTests) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 64 tests in 0.262s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_builtin.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_builtin.py",
+      "stdout": "test_abs (__main__.BuiltinTest) ... ok\r\ntest_all (__main__.BuiltinTest) ... ok\r\ntest_any (__main__.BuiltinTest) ... ok\r\ntest_ascii (__main__.BuiltinTest) ... ok\r\ntest_bin (__main__.BuiltinTest) ... ok\r\ntest_bytearray_translate (__main__.BuiltinTest) ... ok\r\ntest_callable (__main__.BuiltinTest) ... ok\r\ntest_chr (__main__.BuiltinTest) ... ok\r\ntest_cmp (__main__.BuiltinTest) ... ok\r\ntest_compile (__main__.BuiltinTest) ... ok\r\ntest_delattr (__main__.BuiltinTest) ... ok\r\ntest_dir (__main__.BuiltinTest) ... ok\r\ntest_divmod (__main__.BuiltinTest) ... ok\r\ntest_eval (__main__.BuiltinTest) ... ok\r\ntest_exec (__main__.BuiltinTest) ... ok\r\ntest_exec_redirected (__main__.BuiltinTest) ... ok\r\ntest_filter (__main__.BuiltinTest) ... ok\r\ntest_format (__main__.BuiltinTest) ... ok\r\ntest_general_eval (__main__.BuiltinTest) ... ok\r\ntest_getattr (__main__.BuiltinTest) ... ok\r\ntest_hasattr (__main__.BuiltinTest) ... ok\r\ntest_hash (__main__.BuiltinTest) ... ok\r\ntest_hex (__main__.BuiltinTest) ... ok\r\ntest_id (__main__.BuiltinTest) ... ok\r\ntest_import (__main__.BuiltinTest) ... ok\r\ntest_input (__main__.BuiltinTest) ... ok\r\ntest_input_tty (__main__.BuiltinTest) ... skipped 'the pty and signal modules must be available'\r\ntest_input_tty_non_ascii (__main__.BuiltinTest) ... skipped 'the pty and signal modules must be available'\r\ntest_input_tty_non_ascii_unicode_errors (__main__.BuiltinTest) ... skipped 'the pty and signal modules must be available'\r\ntest_isinstance (__main__.BuiltinTest) ... ok\r\ntest_issubclass (__main__.BuiltinTest) ... ok\r\ntest_iter (__main__.BuiltinTest) ... ok\r\ntest_len (__main__.BuiltinTest) ... ok\r\ntest_map (__main__.BuiltinTest) ... ok\r\ntest_max (__main__.BuiltinTest) ... ok\r\ntest_min (__main__.BuiltinTest) ... ok\r\ntest_neg (__main__.BuiltinTest) ... ok\r\ntest_next (__main__.BuiltinTest) ... ok\r\ntest_oct (__main__.BuiltinTest) ... ok\r\ntest_open (__main__.BuiltinTest) ... ok\r\ntest_ord (__main__.BuiltinTest) ... ok\r\ntest_pow (__main__.BuiltinTest) ... ok\r\ntest_repr (__main__.BuiltinTest) ... ok\r\ntest_round (__main__.BuiltinTest) ... ok\r\ntest_round_large (__main__.BuiltinTest) ... ok\r\ntest_setattr (__main__.BuiltinTest) ... ok\r\ntest_sum (__main__.BuiltinTest) ... ok\r\ntest_type (__main__.BuiltinTest) ... ok\r\ntest_vars (__main__.BuiltinTest) ... ok\r\ntest_zip (__main__.BuiltinTest) ... ok\r\ntest_baddecorator (__main__.TestSorted) ... ok\r\ntest_basic (__main__.TestSorted) ... ok\r\ntest_inputtypes (__main__.TestSorted) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 53 tests in 0.033s\r\n\r\nOK (skipped=3)\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/multiple_inheritance/super-nested-not-self.py": {
+      "identifier": "original/lambda-py/multiple_inheritance/super-nested-not-self.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/multiple_inheritance/super-external.py": {
+      "identifier": "original/lambda-py/multiple_inheritance/super-external.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/property/base.py": {
+      "identifier": "original/lambda-py/property/base.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/property/lambda_getter.py": {
+      "identifier": "original/lambda-py/property/lambda_getter.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_float.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_float.py",
+      "stdout": "test_error_message (__main__.GeneralFloatCases) ... ok\r\ntest_float (__main__.GeneralFloatCases) ... ok\r\ntest_float_containment (__main__.GeneralFloatCases) ... ok\r\ntest_float_mod (__main__.GeneralFloatCases) ... ok\r\ntest_float_pow (__main__.GeneralFloatCases) ... ok\r\ntest_float_with_comma (__main__.GeneralFloatCases) ... ok\r\ntest_floatasratio (__main__.GeneralFloatCases) ... ok\r\ntest_floatconversion (__main__.GeneralFloatCases) ... ok\r\ntest_is_integer (__main__.GeneralFloatCases) ... ok\r\ntest_getformat (__main__.FormatFunctionsTestCase) ... ok\r\ntest_setformat (__main__.FormatFunctionsTestCase) ... ok\r\ntest_double_specials_dont_unpack (__main__.UnknownFormatTestCase) ... ok\r\ntest_float_specials_dont_unpack (__main__.UnknownFormatTestCase) ... ok\r\ntest_double_specials_do_unpack (__main__.IEEEFormatTestCase) ... ok\r\ntest_float_specials_do_unpack (__main__.IEEEFormatTestCase) ... ok\r\ntest_format (__main__.FormatTestCase) ... ok\r\ntest_format_testfile (__main__.FormatTestCase) ... ERROR\r\ntest_issue5864 (__main__.FormatTestCase) ... ok\r\ntest_repr (__main__.ReprTestCase) ... ERROR\r\ntest_short_repr (__main__.ReprTestCase) ... ok\r\ntest_format_specials (__main__.RoundTestCase) ... ok\r\ntest_inf_nan (__main__.RoundTestCase) ... ok\r\ntest_large_n (__main__.RoundTestCase) ... ok\r\ntest_matches_float_format (__main__.RoundTestCase) ... ok\r\ntest_overflow (__main__.RoundTestCase) ... ok\r\ntest_previous_round_bugs (__main__.RoundTestCase) ... ok\r\ntest_small_n (__main__.RoundTestCase) ... ok\r\ntest_inf_as_str (__main__.InfNanTest) ... ok\r\ntest_inf_from_str (__main__.InfNanTest) ... ok\r\ntest_nan_as_str (__main__.InfNanTest) ... ok\r\ntest_nan_from_str (__main__.InfNanTest) ... ok\r\ntest_ends (__main__.HexFloatTestCase) ... ok\r\ntest_from_hex (__main__.HexFloatTestCase) ... ok\r\ntest_invalid_inputs (__main__.HexFloatTestCase) ... ok\r\ntest_roundtrip (__main__.HexFloatTestCase) ... ok\r\ntest_whitespace (__main__.HexFloatTestCase) ... ok\r\n\r\n======================================================================\r\nERROR: test_format_testfile (__main__.FormatTestCase)\r\n----------------------------------------------------------------------\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\AppData\\Local\\Temp\\test_cpython_603_dp7p\\test_float.py\", line 629, in test_format_testfile\r\n    with open(format_testfile) as testfile:\r\nIOError: [Errno 2] No such file or directory: 'C:\\\\Users\\\\koehl\\\\AppData\\\\Local\\\\Temp\\\\test_cpython_603_dp7p\\\\formatfloat_testcases.txt'\r\n\r\n======================================================================\r\nERROR: test_repr (__main__.ReprTestCase)\r\n----------------------------------------------------------------------\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\AppData\\Local\\Temp\\test_cpython_603_dp7p\\test_float.py\", line 650, in test_repr\r\n    'floating_points.txt'))\r\nIOError: [Errno 2] No such file or directory: 'C:\\\\Users\\\\koehl\\\\AppData\\\\Local\\\\Temp\\\\test_cpython_603_dp7p\\\\floating_points.txt'\r\n\r\n----------------------------------------------------------------------\r\nRan 36 tests in 0.235s\r\n\r\nFAILED (errors=2)\r\n",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\AppData\\Local\\Temp\\test_cpython_603_dp7p\\test_float.py\", line 1356, in <module>\r\n    test_main()\r\n  File \"C:\\Users\\koehl\\AppData\\Local\\Temp\\test_cpython_603_dp7p\\test_float.py\", line 1352, in test_main\r\n    HexFloatTestCase,\r\n  File \"C:\\Program Files\\Python32\\lib\\test\\support.py\", line 1478, in run_unittest\r\n    _run_suite(suite)\r\n  File \"C:\\Program Files\\Python32\\lib\\test\\support.py\", line 1453, in _run_suite\r\n    raise TestFailed(err)\r\ntest.support.TestFailed: multiple errors occurred\r\n",
+      "returncode": 1,
+      "exception": "test.support.TestFailed",
+      "message": " multiple errors occurred",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-convert.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-convert.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-compare-list-dict.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-compare-list-dict.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/parser/parser-regress.py": {
+      "identifier": "original/lambda-py/parser/parser-regress.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/multiple_inheritance/super-nested-self.py": {
+      "identifier": "original/lambda-py/multiple_inheritance/super-nested-self.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/multiple_inheritance/super-nested-noarg.py": {
+      "identifier": "original/lambda-py/multiple_inheritance/super-nested-noarg.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-callable.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-callable.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-compare.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-compare.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/modules/unittest/test_list.py": {
+      "identifier": "original/lambda-py/modules/unittest/test_list.py",
+      "stdout": "test_addmul (__main__.ListTest) ... ok\r\ntest_append (__main__.ListTest) ... ok\r\ntest_basic (__main__.ListTest) ... ok\r\ntest_bigrepeat (__main__.ListTest) ... ok\r\ntest_constructor_exception_handling (__main__.ListTest) ... ok\r\ntest_constructors (__main__.ListTest) ... ok\r\ntest_contains (__main__.ListTest) ... ok\r\ntest_contains_fake (__main__.ListTest) ... ok\r\ntest_contains_order (__main__.ListTest) ... ok\r\ntest_count (__main__.ListTest) ... ok\r\ntest_delitem (__main__.ListTest) ... ok\r\ntest_delslice (__main__.ListTest) ... ok\r\ntest_extend (__main__.ListTest) ... ok\r\ntest_extendedslicing (__main__.ListTest) ... ok\r\ntest_getitem (__main__.ListTest) ... ok\r\ntest_getitemoverwriteiter (__main__.ListTest) ... ok\r\ntest_getslice (__main__.ListTest) ... ok\r\ntest_iadd (__main__.ListTest) ... ok\r\ntest_identity (__main__.ListTest) ... ok\r\ntest_imul (__main__.ListTest) ... ok\r\ntest_index (__main__.ListTest) ... ok\r\ntest_init (__main__.ListTest) ... ok\r\ntest_insert (__main__.ListTest) ... ok\r\ntest_len (__main__.ListTest) ... ok\r\ntest_minmax (__main__.ListTest) ... ok\r\ntest_overflow (__main__.ListTest) ... ok\r\ntest_pop (__main__.ListTest) ... ok\r\ntest_print (__main__.ListTest) ... ok\r\ntest_remove (__main__.ListTest) ... ok\r\ntest_repeat (__main__.ListTest) ... ok\r\ntest_repr (__main__.ListTest) ... ok\r\ntest_repr_large (__main__.ListTest) ... ok\r\ntest_reverse (__main__.ListTest) ... ok\r\ntest_reversed (__main__.ListTest) ... ok\r\ntest_set_subscript (__main__.ListTest) ... ok\r\ntest_setitem (__main__.ListTest) ... ok\r\ntest_setslice (__main__.ListTest) ... ok\r\ntest_slice (__main__.ListTest) ... ok\r\ntest_sort (__main__.ListTest) ... ok\r\ntest_subscript (__main__.ListTest) ... ok\r\ntest_truth (__main__.ListTest) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 41 tests in 0.233s\r\n\r\nOK\r\n",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-float.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-float.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-int.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-int.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-str.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-str.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-isinstance.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-isinstance.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/builtin/any.py": {
+      "identifier": "original/lambda-py/python-reference/builtin/any.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/bool/bool-math.py": {
+      "identifier": "original/lambda-py/python-reference/bool/bool-math.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/builtin/all.py": {
+      "identifier": "original/lambda-py/python-reference/builtin/all.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/builtin/filter.py": {
+      "identifier": "original/lambda-py/python-reference/builtin/filter.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/builtin/get_set_attribute.py": {
+      "identifier": "original/lambda-py/python-reference/builtin/get_set_attribute.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/builtin/isinstance-tuple.py": {
+      "identifier": "original/lambda-py/python-reference/builtin/isinstance-tuple.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/builtin/isinstance.py": {
+      "identifier": "original/lambda-py/python-reference/builtin/isinstance.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/builtin/callable.py": {
+      "identifier": "original/lambda-py/python-reference/builtin/callable.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/builtin/len.py": {
+      "identifier": "original/lambda-py/python-reference/builtin/len.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/class/metaclass-class1.py": {
+      "identifier": "original/lambda-py/python-reference/class/metaclass-class1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/class/class-decorators.py": {
+      "identifier": "original/lambda-py/python-reference/class/class-decorators.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/class/metaclass-class2.py": {
+      "identifier": "original/lambda-py/python-reference/class/metaclass-class2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/class/test_class_dict.py": {
+      "identifier": "original/lambda-py/python-reference/class/test_class_dict.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/class/metaclass-class3.py": {
+      "identifier": "original/lambda-py/python-reference/class/metaclass-class3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/class/test_metaclass.py": {
+      "identifier": "original/lambda-py/python-reference/class/test_metaclass.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/class/metaclass-function.py": {
+      "identifier": "original/lambda-py/python-reference/class/metaclass-function.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-bool.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-bool.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-hash-effects.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-hash-effects.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-clear.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-clear.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-get.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-get.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-getitem.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-getitem.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-contains.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-contains.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-keys-effects.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-keys-effects.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-items.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-items.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-set-comprehensions.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-set-comprehensions.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-list.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-list.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-keys.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-keys.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-update-iterable.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-update-iterable.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-attribute.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-attribute.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-set-keys.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-set-keys.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-values-set.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-values-set.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-values.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-values.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/dict-update.py": {
+      "identifier": "original/lambda-py/python-reference/dict/dict-update.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/assertion-error-msg.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/assertion-error-msg.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/assert-silent.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/assert-silent.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/assertion-error.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/assertion-error.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/dict/test-dict-aug-assign.py": {
+      "identifier": "original/lambda-py/python-reference/dict/test-dict-aug-assign.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/assertRaises.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/assertRaises.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/elseReturn.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/elseReturn.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/except-as.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/except-as.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/nested-reraise.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/nested-reraise.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/nested-else.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/nested-else.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/invalid-reraise.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/invalid-reraise.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/reraise.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/reraise.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/except-reraise.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/except-reraise.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/nested.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/nested.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/test-try-except-no-exception.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/test-try-except-no-exception.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/test-finally-reraise.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/test-finally-reraise.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/test-try-except-else.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/test-try-except-else.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/test_with.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/test_with.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/try-except-finally-no-exception.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/try-except-finally-no-exception.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/try-except-else-finally.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/try-except-else-finally.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/test-try-except.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/test-try-except.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/try-except-else-finally-no-exception.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/try-except-else-finally-no-exception.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/try-except-else-no-exception.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/try-except-else-no-exception.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/while-break-finally.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/while-break-finally.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/func_attr.py": {
+      "identifier": "original/lambda-py/python-reference/functions/func_attr.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/while-continue-finally.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/while-continue-finally.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/try-except-finally.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/try-except-finally.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/exceptions/try-finally-no-exception.py": {
+      "identifier": "original/lambda-py/python-reference/exceptions/try-finally-no-exception.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/func_defaults.py": {
+      "identifier": "original/lambda-py/python-reference/functions/func_defaults.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/func_stararg.py": {
+      "identifier": "original/lambda-py/python-reference/functions/func_stararg.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/func_attr2.py": {
+      "identifier": "original/lambda-py/python-reference/functions/func_attr2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/keywords_args1.py": {
+      "identifier": "original/lambda-py/python-reference/functions/keywords_args1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/keywords_args2.py": {
+      "identifier": "original/lambda-py/python-reference/functions/keywords_args2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/keywords_args4.py": {
+      "identifier": "original/lambda-py/python-reference/functions/keywords_args4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/keywords_args3.py": {
+      "identifier": "original/lambda-py/python-reference/functions/keywords_args3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/kwonlyargs.py": {
+      "identifier": "original/lambda-py/python-reference/functions/kwonlyargs.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/kwarg.py": {
+      "identifier": "original/lambda-py/python-reference/functions/kwarg.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/lambda_stararg.py": {
+      "identifier": "original/lambda-py/python-reference/functions/lambda_stararg.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/gen-arg.py": {
+      "identifier": "original/lambda-py/python-reference/generators/gen-arg.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/basic-gen.py": {
+      "identifier": "original/lambda-py/python-reference/generators/basic-gen.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/lambda_defaults.py": {
+      "identifier": "original/lambda-py/python-reference/functions/lambda_defaults.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/varargs.py": {
+      "identifier": "original/lambda-py/python-reference/functions/varargs.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/non_tuple_starag.py": {
+      "identifier": "original/lambda-py/python-reference/functions/non_tuple_starag.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/gen-exception.py": {
+      "identifier": "original/lambda-py/python-reference/generators/gen-exception.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/gen-list.py": {
+      "identifier": "original/lambda-py/python-reference/generators/gen-list.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/functions/memofib-function-attributes.py": {
+      "identifier": "original/lambda-py/python-reference/functions/memofib-function-attributes.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/gen-return-uncatchable.py": {
+      "identifier": "original/lambda-py/python-reference/generators/gen-return-uncatchable.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/gen-in-gen.py": {
+      "identifier": "original/lambda-py/python-reference/generators/gen-in-gen.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/gen-multiyield.py": {
+      "identifier": "original/lambda-py/python-reference/generators/gen-multiyield.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/filter-comprehension.py": {
+      "identifier": "original/lambda-py/python-reference/iter/filter-comprehension.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/gen-return.py": {
+      "identifier": "original/lambda-py/python-reference/generators/gen-return.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/continue.py": {
+      "identifier": "original/lambda-py/python-reference/iter/continue.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/generators/simple-gen.py": {
+      "identifier": "original/lambda-py/python-reference/generators/simple-gen.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/iter-misc.py": {
+      "identifier": "original/lambda-py/python-reference/iter/iter-misc.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/iter-simple.py": {
+      "identifier": "original/lambda-py/python-reference/iter/iter-simple.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/iter-classes.py": {
+      "identifier": "original/lambda-py/python-reference/iter/iter-classes.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/iter-comprehensions.py": {
+      "identifier": "original/lambda-py/python-reference/iter/iter-comprehensions.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/iter-stop.py": {
+      "identifier": "original/lambda-py/python-reference/iter/iter-stop.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/test-for-else.py": {
+      "identifier": "original/lambda-py/python-reference/iter/test-for-else.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/lists/simple-append.py": {
+      "identifier": "original/lambda-py/python-reference/lists/simple-append.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/iter/test-genexp-lazyness.py": {
+      "identifier": "original/lambda-py/python-reference/iter/test-genexp-lazyness.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/lists/test_list_assign.py": {
+      "identifier": "original/lambda-py/python-reference/lists/test_list_assign.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/modules/test_failing_support_sticks.py": {
+      "identifier": "original/lambda-py/python-reference/modules/test_failing_support_sticks.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/lists/test_list_identity.py": {
+      "identifier": "original/lambda-py/python-reference/lists/test_list_identity.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/lists/simple-extend.py": {
+      "identifier": "original/lambda-py/python-reference/lists/simple-extend.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/lists/test_list_simple.py": {
+      "identifier": "original/lambda-py/python-reference/lists/test_list_simple.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/modules/test_basic.py": {
+      "identifier": "original/lambda-py/python-reference/modules/test_basic.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/modules/support.py": {
+      "identifier": "original/lambda-py/python-reference/modules/support.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/lists/test_list_truth.py": {
+      "identifier": "original/lambda-py/python-reference/lists/test_list_truth.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/modules/test_file.py": {
+      "identifier": "original/lambda-py/python-reference/modules/test_file.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/dunder-methods.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/dunder-methods.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/modules/test_in_modules.py": {
+      "identifier": "original/lambda-py/python-reference/modules/test_in_modules.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/modules/test_scope.py": {
+      "identifier": "original/lambda-py/python-reference/modules/test_scope.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test-classmethod-desugar.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test-classmethod-desugar.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/methods.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/methods.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test_ex5_from_c3_switch.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test_ex5_from_c3_switch.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test_diamond_inheritence.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test_diamond_inheritence.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test-staticmethod-oldstyle.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test-staticmethod-oldstyle.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test_consistency_with_epg.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test_consistency_with_epg.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test_mro_disagreement.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test_mro_disagreement.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test_mro_disagreement_type.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test_mro_disagreement_type.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test-staticmethod-decorator.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test-staticmethod-decorator.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test_monotonicity.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test_monotonicity.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/type-dict.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/type-dict.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test_super_multiple_inheritance.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test_super_multiple_inheritance.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/shadow.py": {
+      "identifier": "original/lambda-py/python-reference/property/shadow.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/multiple-inheritance/test_multiple_inheritance.py": {
+      "identifier": "original/lambda-py/python-reference/multiple-inheritance/test_multiple_inheritance.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/override_getattr_descr.py": {
+      "identifier": "original/lambda-py/python-reference/property/override_getattr_descr.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/simple_getter_exn.py": {
+      "identifier": "original/lambda-py/python-reference/property/simple_getter_exn.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/simple_property_decorator.py": {
+      "identifier": "original/lambda-py/python-reference/property/simple_property_decorator.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/simple_getter.py": {
+      "identifier": "original/lambda-py/python-reference/property/simple_getter.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/test_property_decorator_subclass.py": {
+      "identifier": "original/lambda-py/python-reference/property/test_property_decorator_subclass.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/test_property_decorator_baseclass.py": {
+      "identifier": "original/lambda-py/python-reference/property/test_property_decorator_baseclass.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/range/test-range-lazyness.py": {
+      "identifier": "original/lambda-py/python-reference/range/test-range-lazyness.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/simple_property.py": {
+      "identifier": "original/lambda-py/python-reference/property/simple_property.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/range/range-list.py": {
+      "identifier": "original/lambda-py/python-reference/range/range-list.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/range/range-errs.py": {
+      "identifier": "original/lambda-py/python-reference/range/range-errs.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/range/range-vars.py": {
+      "identifier": "original/lambda-py/python-reference/range/range-vars.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/range/slice1.py": {
+      "identifier": "original/lambda-py/python-reference/range/slice1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/bound-and-free.py": {
+      "identifier": "original/lambda-py/python-reference/scope/bound-and-free.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/property/test_property_getter_doc_override.py": {
+      "identifier": "original/lambda-py/python-reference/property/test_property_getter_doc_override.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/comprehensions-leak.py": {
+      "identifier": "original/lambda-py/python-reference/scope/comprehensions-leak.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/destructuring-bind.py": {
+      "identifier": "original/lambda-py/python-reference/scope/destructuring-bind.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/class-bases-scope.py": {
+      "identifier": "original/lambda-py/python-reference/scope/class-bases-scope.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/extra-nesting.py": {
+      "identifier": "original/lambda-py/python-reference/scope/extra-nesting.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/for-loops.py": {
+      "identifier": "original/lambda-py/python-reference/scope/for-loops.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/global-in-class-body.py": {
+      "identifier": "original/lambda-py/python-reference/scope/global-in-class-body.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/lambda3.py": {
+      "identifier": "original/lambda-py/python-reference/scope/lambda3.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/lambda2.py": {
+      "identifier": "original/lambda-py/python-reference/scope/lambda2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/lambda1.py": {
+      "identifier": "original/lambda-py/python-reference/scope/lambda1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/lambda4.py": {
+      "identifier": "original/lambda-py/python-reference/scope/lambda4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/mixed-freevars-and-cellvars.py": {
+      "identifier": "original/lambda-py/python-reference/scope/mixed-freevars-and-cellvars.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/freevar-in-method.py": {
+      "identifier": "original/lambda-py/python-reference/scope/freevar-in-method.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/immutable-alias.py": {
+      "identifier": "original/lambda-py/python-reference/scope/immutable-alias.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/locals-function-renamed.py": {
+      "identifier": "original/lambda-py/python-reference/scope/locals-function-renamed.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/locals-class.py": {
+      "identifier": "original/lambda-py/python-reference/scope/locals-class.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/global-in-parallel-nested-functions.py": {
+      "identifier": "original/lambda-py/python-reference/scope/global-in-parallel-nested-functions.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/locals-function.py": {
+      "identifier": "original/lambda-py/python-reference/scope/locals-function.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/global_scope.py": {
+      "identifier": "original/lambda-py/python-reference/scope/global_scope.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/mutable-alias.py": {
+      "identifier": "original/lambda-py/python-reference/scope/mutable-alias.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nesting-global-no-free.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nesting-global-no-free.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nesting-global-under-local.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nesting-global-under-local.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nesting-through-class.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nesting-through-class.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nonlocal-method.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nonlocal-method.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nested-classes.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nested-classes.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nonlocal-class.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nonlocal-class.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nearest-enclosing-scope.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nearest-enclosing-scope.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nesting-plus-free-ref-to-global.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nesting-plus-free-ref-to-global.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nonlocal-function-vardef-shadow.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nonlocal-function-vardef-shadow.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nonlocal-function.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nonlocal-function.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nested-nonlocal.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nested-nonlocal.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nonlocal-function-vardef-unbound.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nonlocal-function-vardef-unbound.py",
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\r\n  File \"C:\\Users\\koehl\\AppData\\Local\\Temp\\test_cpython_s_e0tsmi\\nonlocal-function-vardef-unbound.py\", line 63, in <module>\r\n    ___assertEqual(dec(), 0)\r\n  File \"C:\\Users\\koehl\\AppData\\Local\\Temp\\test_cpython_s_e0tsmi\\nonlocal-function-vardef-unbound.py\", line 56, in dec\r\n    x -= 1\r\nUnboundLocalError: local variable 'x' referenced before assignment\r\n",
+      "returncode": 1,
+      "exception": "UnboundLocalError",
+      "message": " local variable 'x' referenced before assignment",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/nonlocal-function-vardef.py": {
+      "identifier": "original/lambda-py/python-reference/scope/nonlocal-function-vardef.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/recursion.py": {
+      "identifier": "original/lambda-py/python-reference/scope/recursion.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/simple-nesting.py": {
+      "identifier": "original/lambda-py/python-reference/scope/simple-nesting.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/simple-and-rebinding.py": {
+      "identifier": "original/lambda-py/python-reference/scope/simple-and-rebinding.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/test-assign-field.py": {
+      "identifier": "original/lambda-py/python-reference/scope/test-assign-field.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/test-builtin-scope.py": {
+      "identifier": "original/lambda-py/python-reference/scope/test-builtin-scope.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/unboundlocal-augassign.py": {
+      "identifier": "original/lambda-py/python-reference/scope/unboundlocal-augassign.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/tuple/tuple-constructors.py": {
+      "identifier": "original/lambda-py/python-reference/tuple/tuple-constructors.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/super/super-not-self.py": {
+      "identifier": "original/lambda-py/python-reference/super/super-not-self.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/super/test-super.py": {
+      "identifier": "original/lambda-py/python-reference/super/test-super.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/test-builtin-scope-iter.py": {
+      "identifier": "original/lambda-py/python-reference/scope/test-builtin-scope-iter.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/unbound-local.py": {
+      "identifier": "original/lambda-py/python-reference/scope/unbound-local.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/tuple/tuple-to-list.py": {
+      "identifier": "original/lambda-py/python-reference/tuple/tuple-to-list.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/scope/unboundlocal-after-del.py": {
+      "identifier": "original/lambda-py/python-reference/scope/unboundlocal-after-del.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/tuple/tuple-in.py": {
+      "identifier": "original/lambda-py/python-reference/tuple/tuple-in.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/tuple/tuple-length.py": {
+      "identifier": "original/lambda-py/python-reference/tuple/tuple-length.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/tuple/tuple-truth.py": {
+      "identifier": "original/lambda-py/python-reference/tuple/tuple-truth.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/tuple/tuple-add.py": {
+      "identifier": "original/lambda-py/python-reference/tuple/tuple-add.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/assign-to-self.py": {
+      "identifier": "original/lambda-py/python-reference/types/assign-to-self.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/address-of-none.py": {
+      "identifier": "original/lambda-py/python-reference/types/address-of-none.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/tuple/tuple-mul.py": {
+      "identifier": "original/lambda-py/python-reference/tuple/tuple-mul.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test-add-with-funcs.py": {
+      "identifier": "original/lambda-py/python-reference/types/test-add-with-funcs.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/bitwise_test.py": {
+      "identifier": "original/lambda-py/python-reference/types/bitwise_test.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_booleans.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_booleans.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_comparisons.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_comparisons.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_div_zero.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_div_zero.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test-aliasing.py": {
+      "identifier": "original/lambda-py/python-reference/types/test-aliasing.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_floats.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_floats.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_int_float_primitives.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_int_float_primitives.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_simple_string_ops.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_simple_string_ops.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_simple_strings.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_simple_strings.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_object_class.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_object_class.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_pow.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_pow.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_dynamics.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_dynamics.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/types_truthy1.py": {
+      "identifier": "original/lambda-py/python-reference/types/types_truthy1.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/types_truthy2.py": {
+      "identifier": "original/lambda-py/python-reference/types/types_truthy2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/scope/nonlocal-from-class-body.py": {
+      "identifier": "original/lambda-py/scope/nonlocal-from-class-body.py",
+      "stdout": "",
+      "stderr": "SyntaxError: no binding for nonlocal 'x' found\r\n",
+      "returncode": 1,
+      "exception": "SyntaxError",
+      "message": " no binding for nonlocal 'x' found",
+      "timeout": false
+    },
+    "original/lambda-py/python-reference/types/test_string_slices.py": {
+      "identifier": "original/lambda-py/python-reference/types/test_string_slices.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/scope/complex-defs.py": {
+      "identifier": "original/lambda-py/scope/complex-defs.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/scope/complex-defs2.py": {
+      "identifier": "original/lambda-py/scope/complex-defs2.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/scope/multiple-locals-calls.py": {
+      "identifier": "original/lambda-py/scope/multiple-locals-calls.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "modified/k-python/testdocstring.py": {
+      "identifier": "modified/k-python/testdocstring.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "koehl/do-not-run-init.py": {
+      "identifier": "koehl/do-not-run-init.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "modified/k-python/testsetattr4.py": {
+      "identifier": "modified/k-python/testsetattr4.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "original/lambda-py/scope/unboundlocal-augassign.py": {
+      "identifier": "original/lambda-py/scope/unboundlocal-augassign.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "modified/k-python/fixed/testtuples7.py": {
+      "identifier": "modified/k-python/fixed/testtuples7.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "koehl/nonlocal-in-class.py": {
+      "identifier": "koehl/nonlocal-in-class.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "koehl/except-target-delete.py": {
+      "identifier": "koehl/except-target-delete.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "koehl/non-string-keywords.py": {
+      "identifier": "koehl/non-string-keywords.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "koehl/mcs-attribute-lookup.py": {
+      "identifier": "koehl/mcs-attribute-lookup.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    },
+    "koehl/simple-property.py": {
+      "identifier": "koehl/simple-property.py",
+      "stdout": "",
+      "stderr": "",
+      "returncode": 0,
+      "exception": "",
+      "message": "",
+      "timeout": false
+    }
+  }
+}

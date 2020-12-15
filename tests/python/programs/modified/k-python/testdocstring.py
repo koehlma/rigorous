@@ -1,0 +1,35 @@
+# Removed test with `bytes` literals as we do not support them.
+
+"5"
+
+assert __doc__ == "5"
+
+def a():
+  "5"
+
+assert a.__doc__ == "5"
+
+def b():
+  "5"
+  return 5
+
+assert b.__doc__ == "5"
+
+def c(): pass
+
+assert c.__doc__ is None
+
+def e():
+  "5" + "6"
+
+assert e.__doc__ is None
+
+def f():
+  x = 5
+  y = 6
+
+assert f.__doc__ is None
+
+class A: "5"
+
+assert A.__doc__ == "5"
