@@ -223,15 +223,15 @@ class Executor(interface.Executor[Transition]):
                 condition_violated: bool = False
 
                 conditions = []
-                for condition in itertools.chain(
+                for deferred_condition in itertools.chain(
                     handle.conditions, destination.conditions
                 ):
-                    verdict = condition.get_verdict(solution)
+                    verdict = deferred_condition.get_verdict(solution)
                     if verdict is inference.Verdict.VIOLATED:
                         condition_violated = True
                         break
                     elif verdict is inference.Verdict.SATISFIABLE:
-                        conditions.append(condition)
+                        conditions.append(deferred_condition)
 
                 if condition_violated:
                     continue
