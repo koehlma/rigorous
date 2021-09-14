@@ -6,10 +6,12 @@ from __future__ import annotations
 
 import typing as t
 
+import abc
+
 from ...core import terms
 
 
-class Transition(t.Protocol):
+class Transition(abc.ABC):
     source: terms.Term
     action: terms.Term
     target: terms.Term

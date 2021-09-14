@@ -9,6 +9,7 @@ from __future__ import annotations
 import dataclasses as d
 import typing as t
 
+import abc
 import collections
 import enum
 import functools
@@ -23,7 +24,8 @@ class Verdict(enum.Enum):
     SATISFIED = "satisfied"
 
 
-class Condition(t.Protocol):
+class Condition(abc.ABC):
+    @abc.abstractmethod
     def get_verdict(self, substititon: terms.Substitution) -> Verdict:
         pass
 

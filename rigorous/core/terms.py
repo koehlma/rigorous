@@ -220,7 +220,8 @@ class Sequence(Term):
         return len(self.elements)
 
 
-class Operator(t.Protocol):
+class Operator(abc.ABC):
+    @abc.abstractmethod
     def apply(self, arguments: t.Tuple[Term, ...]) -> t.Optional[Term]:
         pass
 
